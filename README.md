@@ -11,7 +11,7 @@ Make sure you have the following installed:
 To run this Flipkart clone website locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/HimanshuMohanty-Git24/TinDog.git
+git clone https://sumit7735.github.io/TinDog/
 
 
 Navigate to the project directory: cd TinDog
